@@ -1,0 +1,8 @@
+Package: net.kenhtao.Junipero
+Version: 1.1
+Section: Themes
+Maintainer: @xerusdesign
+Architecture: iphoneos-arm64
+Name: Junipero
+Author: @xerusdesign
+Description:Junipero is a stunning new look for iOS. Inspired by the icons in macOS Big Sur, Junipero aims to add more detail, shadow color and polish to your iOS homescreen. Junipero has been in the works since 2020, around the time macOS Big Sur was released. Since then, I've constantly returned to this theme with refinements until I struck the right look. Currently, there are 300 icons supported in Junipero. More will be added on a regular basis. With Junipero, you can create your own look by enabling the custom Icon Shadows or spice things up by enabling the included Junipero Deluxe, which adds a subtle but very impactful overlay to every icon. Junipero also includes a few alternate icons for you to try. The choice is all yours!
