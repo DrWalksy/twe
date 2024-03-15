@@ -1,0 +1,12 @@
+Origin: Zonk's Repo
+Label: Zonk's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: My Tweaks and Cracks
+
+SHA256:
+ 0a3e07b52324061958c0acf5364b62451bb868ae2ce10d975c75645acaef8b7c 860 Packages.bz2
+ 30fed7d72ae296bd47717015072c08a601fb931c05f9e0de13dca482efd4e327 800 Packages.xz
